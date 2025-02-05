@@ -83,7 +83,7 @@ const SettingsPage = () => {
                             ${message.isSent ? "text-primary-content/70" : "text-base-content/70"}
                           `}
                         >
-                          12:00 PM
+                          05:28 PM
                         </p>
                       </div>
                     </div>
